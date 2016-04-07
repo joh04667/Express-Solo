@@ -1,0 +1,21 @@
+body {
+  background-color: orange;
+}
+
+h1 {
+  color: darkgreen;
+  text-shadow: 1px 1px black;
+  text-align: center;
+}
+
+.button {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
